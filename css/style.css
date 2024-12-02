@@ -1,0 +1,21 @@
+body{
+background-color: #24353F;
+}
+#button{
+border-color:#17A2B8 ;
+}
+h1,button{
+color: #17A2B8;
+}
+#P-inputUp,#P-inputIn,#E-inputUp,#E-inputIn,#N-inputUp{
+background-color: transparent;
+}
+::placeholder{
+color: white !important;
+}
+p a{
+text-decoration: none;
+}
+section a:hover{
+text-decoration: underline;
+}
